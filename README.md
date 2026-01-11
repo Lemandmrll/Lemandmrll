@@ -3,7 +3,7 @@
 
 
 ### Ben Kimim
-- 👩‍💻 Manisa Celal Bayar Üniversitesi Elektrik ve Elektronik Mühendisliği 4. sınıf öğrencisiyim.
+- 👩‍💻 Manisa Celal Bayar Üniversitesi Elektrik ve Elektronik Mühendisliği yüksek lisans 1. sınıf öğrencisiyim.
 - 📧 **lemandemirelli89@gmail.com**
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/leman_demirelli/)
